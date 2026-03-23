@@ -1,0 +1,3 @@
+greeting:
+  message: "Hello from your GitHub Config Repo!"
+  version: 1.0
